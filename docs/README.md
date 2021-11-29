@@ -4,7 +4,7 @@ A simple Simon Says Game to Grasp a better understanding of javascript using Jqu
 
 The [Simon Says Game Link](https://wesujs.github.io/siomonsays/).
 
-![Site Preview](https://gyazo.com/c1bd44a9fe3c740a33e584978047517e)
+![Site Preview](https://i.gyazo.com/c1bd44a9fe3c740a33e584978047517e.png)
 
 
 
